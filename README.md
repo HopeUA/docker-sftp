@@ -10,6 +10,6 @@ Easy to use SFTP (SSH File Transfer Protocol) server with OpenSSH
 
 ### Enviroment variables
     
-**SFTP_USER** – user name
-**SFTP_PASS** – user password
-**SFTP_HOME** – user home directory (for chroot)
+**SFTP_USER** – user name  
+**SFTP_PASS** – user password  
+**SFTP_HOME** – user home directory (for chroot)  
