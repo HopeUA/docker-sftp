@@ -10,7 +10,7 @@ COPY container-files/run.sh /run.sh
 
 RUN \
     # Install
-    apk add --no-cache openssh openssh-sftp-server shadow@edge && \
+    apk add --no-cache openssh openssh-sftp-server && \
 
     # Entrypoint
     chmod +x /run.sh
